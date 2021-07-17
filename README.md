@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Douglas Lazaro</h1>
-<h3 align="center">A passionate frontend developer from Guatemala</h3>
+<h3 align="center">A passionate Full-Stack developer from Guatemala</h3>
 
 <p align="left">I am Guatemalan all my life I have lived here in this beautiful country. </p>
 <p align="left">In the current year 2021. I am finishing my degree in information systems engineering and since 2018 I started in back-end development in the area of ​​relational databases and Java programming language. </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/douglaslazaro7" target="blank"><img src="https://img.shields.io/twitter/follow/douglaslazaro7?logo=twitter&style=for-the-badge" alt="douglaslazaro7" /></a> </p>
 
-- I’m currently working on a **reactjs proyects**
+- I’m currently working on a **Django proyects**
 
 - 🌱 I’m currently learning **Vuejs, Angular, Flutter, DotNet**
 
