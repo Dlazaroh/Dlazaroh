@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/douglaslazaro7" target="blank"><img src="https://img.shields.io/twitter/follow/douglaslazaro7?logo=twitter&style=for-the-badge" alt="douglaslazaro7" /></a> </p>
 
-- I’m currently working on a **MERN proyects**
+- I’m currently working on a **MERN projects**
 
 - 🌱 I’m currently learning **Angular, React, Java, Spring Framework **
 
