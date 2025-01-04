@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything of JS, SQL**
 
-- ⚡ Fun fact: **I like running and play chess**
+- ⚡ Fun fact: **I like crossfit and play puzzle**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
