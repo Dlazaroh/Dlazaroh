@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Angular, React, Java, Spring Framework **
 
-- 👯 I’m looking to collaborate on **proyects open-source**
+- 👯 I’m looking to collaborate on **open-source projects**
 
 - 💬 Ask me about **anything of JS, SQL**
 
