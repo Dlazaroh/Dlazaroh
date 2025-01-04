@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/douglaslazaro7" target="blank"><img src="https://img.shields.io/twitter/follow/douglaslazaro7?logo=twitter&style=for-the-badge" alt="douglaslazaro7" /></a> </p>
 
-- I’m currently working on a **Django proyects**
+- I’m currently working on a **MERN proyects**
 
-- 🌱 I’m currently learning **Vuejs, Angular, Flutter, DotNet**
+- 🌱 I’m currently learning **Angular, React, Java, Spring Framework **
 
 - 👯 I’m looking to collaborate on **proyects open-source**
 
-- 💬 Ask me about **anything of JS**
+- 💬 Ask me about **anything of JS, SQL**
 
 - ⚡ Fun fact: **I like running and play chess**
 
