@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Douglas Lazaro</h1>
+<h1 align="center">Hi 👋 I'm Douglas Lázaro</h1>
 <h3 align="center">A passionate Full-Stack developer from Guatemala</h3>
 
 <p align="left">I am Guatemalan all my life I have lived here in this beautiful country. </p>
