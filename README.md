@@ -36,7 +36,7 @@ Currently, I'm dedicating my energy to bridging the gap between traditional soft
 
 - 🌱 I’m currently learning **Angular, Nodejs, FastAPI, **
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **The software company and open-source projects**
 
 - 💬 Ask me about **anything of JS, Python, SQL**
 
