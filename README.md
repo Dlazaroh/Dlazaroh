@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Engineer | AI & Intelligence Systems Specialist</h3>
 
 <p align="left">I am Guatemalan all my life I have lived here in this beautiful country. </p>
-<p align="left">Hello! I'm a developer focused on building robust backend infrastructures and orchestrating AI systems. My transition from full-stack development to specialized backend development allows me to design solutions that not only move data but also generate actionable knowledge and insights.
+<p align="left">I'm a developer focused on building robust backend infrastructures and orchestrating AI systems. My transition from full-stack development to specialized backend development allows me to design solutions that not only move data but also generate actionable knowledge and insights.
 Currently, I'm dedicating my energy to bridging the gap between traditional software development and the capabilities of Large Scale Language Models (LLMs).
  </p>
 
