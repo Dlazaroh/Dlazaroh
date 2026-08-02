@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Douglas Lázaro</h1>
-<h3 align="center"># 🚀 Full Stack Engineer | AI & Multi-Agent Systems Specialist</h3>
+<h3 align="center"> 🚀 Full Stack Engineer | AI & Multi-Agent Systems Specialist</h3>
 
 <p align="left">I am a Guatemalan software engineer with a strong commitment to technical excellence and innovation. </p>
 <p align="left">I design, build, and deploy end-to-end full-stack applications—seamlessly bridging intuitive frontend interfaces with high-performance backend infrastructures and cutting-edge Artificial Intelligence. My journey spans from building solid web architecture to orchestrating complex AI systems, implementing modern software paradigms like **Spec-Driven Development** and **Harness/Loop Engineering**.
