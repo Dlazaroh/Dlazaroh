@@ -1,30 +1,44 @@
 <h1 align="center">Hi 👋 I'm Douglas Lázaro</h1>
-<h3 align="center">🚀 Backend Engineer | AI & Intelligence Systems Specialist</h3>
+<h3 align="center"># 🚀 Full Stack Engineer | AI & Multi-Agent Systems Specialist</h3>
 
-<p align="left">I am Guatemalan all my life I have lived here in this beautiful country. </p>
-<p align="left">I'm a developer focused on building robust backend infrastructures and orchestrating AI systems. My transition from full-stack development to specialized backend development allows me to design solutions that not only move data but also generate actionable knowledge and insights.
-Currently, I'm dedicating my energy to bridging the gap between traditional software development and the capabilities of Large Scale Language Models (LLMs).
+<p align="left">I am a Guatemalan software engineer with a strong commitment to technical excellence and innovation. </p>
+<p align="left">I design, build, and deploy end-to-end full-stack applications—seamlessly bridging intuitive frontend interfaces with high-performance backend infrastructures and cutting-edge Artificial Intelligence. My journey spans from building solid web architecture to orchestrating complex AI systems, implementing modern software paradigms like **Spec-Driven Development** and **Harness/Loop Engineering**.
  </p>
 
- ## 🛠️ Tech-Stack & Specialization
- **Core Backend & APIs**
-- Languages ​​& Frameworks: FastAPI (Python), Node.js (TypeScript/JavaScript).
-- Architecture: Design of highly available RESTful APIs, microservices, and asynchronous systems.
-- Databases: * Relational: SQL Server, PostgreSQL.
-- NoSQL: MongoDB, Redis (Caching).
-- Vector: Pinecone, Milvus, or pgvector (for storing embeddings).
+ ### 🛠️ Tech Stack & Core Competencies
 
-**AI Engineering & LLMOps**
-- Models: Advanced integration with OpenAI (GPT-4) and Anthropic (Claude).
-- Orchestration: Implementation of complex workflows with LangChain and LangGraph.
-**AI Strategies:**
-- RAG (Retrieval-Augmented Generation): Building dynamic knowledge bases to reduce hallucinations.
-- Function Calling: Empowering models to interact securely with external tools and databases.
-- Prompt Engineering: Optimizing contexts and system prompts for deterministic results.
+#### 🎨 Frontend Development
+* **Languages & Core:** HTML5, CSS3, JavaScript (ES6+), TypeScript.
+* **Frameworks & Libraries:** Angular, React.
+* **Styling & UI:** Tailwind CSS, Bootstrap.
 
+#### ⚙️ Backend & API Architecture
+* **Frameworks & Runtimes:** Node.js (Express), Python (FastAPI), .NET (C#).
+* **Databases:** 
+  * *Relational:* SQL Server, PostgreSQL.
+  * *NoSQL & Caching:* MongoDB, Redis.
+  * *Vector DBs:* Pinecone, Milvus, pgvector.
+
+#### 🤖 AI Engineering, Multi-Agents & LLMOps
+* **Methodologies & Frameworks:** Spec-Driven Development, Harness Engineering, Loop Engineering.
+* **Agent Architecture:** Agents, Micro-Agents, Multi-Agent Orchestration Frameworks.
+* **Context & Tooling:** Context optimization via Structured `.md` files (`tasks`, `skills`, delimiters), Prompt Engineering, Function Calling, and RAG (Retrieval-Augmented Generation).
+
+#### ☁️ DevOps, Cloud & Tools
+* **Infrastructure:** Docker, Microsoft Azure.
+* **Version Control & Workflow:** Git, Git Flow, Agile/Scrum.
+
+---
+
+### 🛡️ My Development Philosophy
+
+* **Full-Stack Ownership:** Delivering seamless user experiences without sacrificing backend integrity or security.
+* **AI-Augmented Engineering:** Leveraging cutting-edge AI methodologies to accelerate software delivery cycles and build autonomous agentic workflows.
+* **Security & Scalability:** Implementing OWASP standards, optimized database queries, and robust API rate-limiting for production-grade reliability.
+  
  **My Focus as a Software Developer**
-- Security First: Implementing OWASP standards, token management, rate limiting and data encryption at rest/in transit for AI interactions.
-- Scalability: Optimizing queries and execution plans in databases to support massive workloads.
+- Security First: Blocks Attacks (DDoS XSS, SQL Injection), Secure Connection (HTTPS), Protects User Data, Prevents Unauthorized Access, token management, rate limiting and data encryption at rest/in transit for AI interactions.
+- Scalability: Clean Architecture, Microservices, Messaging and Queues, Caching, Decoupling. Optimizing queries and execution plans in databases to support massive workloads.
 - Maintainability: Clean code, documented with technical storytelling and managed using Agile/Scrum methodologies.
 
 
