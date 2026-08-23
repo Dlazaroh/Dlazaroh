@@ -25,8 +25,9 @@
 * **Context & Tooling:** Context optimization via Structured `.md` files (`tasks`, `skills`, delimiters), Prompt Engineering, Function Calling, and RAG (Retrieval-Augmented Generation).
 
 #### ☁️ DevOps, Cloud & Tools
-* **Infrastructure:** Docker, Microsoft Azure.
-* **Version Control & Workflow:** Git, Git Flow, Agile/Scrum.
+* **Infrastructure:** Docker, Podman, Kubernetes, Microsoft Azure.
+* **Cloud:** AWS SQS, EC2, Databases, S3, Api Gateway, Elastic Load Balancer.
+* **Version Control & Workflow:** Git, Git Flow, Github Actions, Agile/Scrum.
 
 ---
 
